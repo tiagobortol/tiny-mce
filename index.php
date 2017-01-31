@@ -20,7 +20,7 @@
                 editor.on('keypress', function (e) {
                     if (e.key === '$')
                     {
-                       
+                       alert('Letra d detectada');
                     }
                 });
             },
